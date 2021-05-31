@@ -9,5 +9,6 @@ Steamy Pro bénéficie également des mêmes ressources didactique que sa soeur 
 ![La Box Steamy](https://user-images.githubusercontent.com/22742183/120165805-3af53580-c1fc-11eb-8c4e-a47ee012db7d.png)
 <br />
 <span>Le manuel pédagogique intuitif et attractif Steamy Pro ! </span>
+<center>
 ![manuel-steamy-pro](https://user-images.githubusercontent.com/22742183/120168461-28c8c680-c1ff-11eb-868a-709a944f0b46.PNG)
-
+</center>
