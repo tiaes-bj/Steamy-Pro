@@ -1,4 +1,4 @@
-# Steamy-Pro
+# Steamy Pro
 Code source des tutos Steamy Pro <br/>
 ![Box Steamy](https://user-images.githubusercontent.com/22742183/120164806-3d0ac480-c1fb-11eb-930f-595dedfaff26.png) 
 <br/>
